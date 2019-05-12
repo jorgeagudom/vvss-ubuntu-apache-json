@@ -302,9 +302,9 @@
                 "autoUpgradeMinorVersion": true,
                 "settings": {
                   "fileUris": [
-                    "https://github.com/jorgeagudom/vvss-ubuntu-apache2-json/raw/master/instalaapache.sh"
+                    "https://github.com/jorgeagudom/vvss-ubuntu-apache2-json/raw/master/instalaapache2.sh"
                   ],
-                  "commandToExecute": "sh instalaapache.sh"
+                  "commandToExecute": "sh instalaapache2.sh"
                 }
               }
         }
