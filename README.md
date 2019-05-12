@@ -1,0 +1,2 @@
+# vvss-ubuntu-apache-json
+Implementar un portal Web a partir de una imagen de Ubuntu Server personalizada con Apache y usando una plantilla JSON. El portal debe desplegarse con un máximo de 3 instancias y un mínimo de 1. El escalado de la solución debe ser automático incrementándose en una instancia cuando el uso de CPU supere el 75% durante 5 minutos (este escalado deberá comprobarse forzando la CPU por encima de este valor). Del mismo modo, si el uso de CPU cae por debajo de un 25% durante 5 minutos, el número de instancias se reducirá en 1.
